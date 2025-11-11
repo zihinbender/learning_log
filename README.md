@@ -1,1 +1,1 @@
-# python-crash-course
+# learning_log
